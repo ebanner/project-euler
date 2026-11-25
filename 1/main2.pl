@@ -14,5 +14,6 @@ main(Sum) :-
     ),
     Multiples
   ),
+
   sum_list(Multiples, Sum).
 
